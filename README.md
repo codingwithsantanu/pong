@@ -4,7 +4,7 @@ I bet you have played the well known game known as *`pong`*. It was originally c
 This project was made entirely by me, I remember watching some tutorials a long time ago. The *checkCollision(rectrangle, circle)* method was taken from `ChatGPT`. This project is highly scalable with tons of improvements listed below. I made this game as a simple prototype, so it doesn't focus on organisation as much :cry:.
 
 ## How To Run
-We all know how to run a `HTML` file and have probably heard of the procedure a million times. So I am not going to bore you too much. Just open the **`index.html`** file in a web browser, preferably *chrome*. 
+We all know how to run a `HTML` file and have probably heard of the procedure a million times. So I am not going to bore you too much. Just open the [index.html](index.html) file in a web browser, preferably *chrome*. 
 
 This game works fine for most of the devices you can expect like: `mobiles`, `tablets`, and `computers`. Give it a try :heart:!
 
